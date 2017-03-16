@@ -1,0 +1,9 @@
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\VänsterHöger\bin\Debug\VänsterHöger.exe.config
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\VänsterHöger\obj\Debug\VänsterHöger.Form1.resources
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\VänsterHöger\obj\Debug\VänsterHöger.Properties.Resources.resources
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\VänsterHöger\obj\Debug\VänsterHöger.csproj.GenerateResource.Cache
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\VänsterHöger\bin\Debug\VänsterHöger.exe
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\VänsterHöger\bin\Debug\VänsterHöger.pdb
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\VänsterHöger\obj\Debug\VänsterHöger.csprojResolveAssemblyReference.cache
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\VänsterHöger\obj\Debug\VänsterHöger.exe
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\VänsterHöger\obj\Debug\VänsterHöger.pdb

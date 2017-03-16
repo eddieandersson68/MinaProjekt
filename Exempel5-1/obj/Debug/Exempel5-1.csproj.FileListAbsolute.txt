@@ -1,0 +1,9 @@
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Exempel5-1\bin\Debug\Exempel5-1.exe.config
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Exempel5-1\bin\Debug\Exempel5-1.exe
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Exempel5-1\bin\Debug\Exempel5-1.pdb
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Exempel5-1\obj\Debug\Exempel5-1.csprojResolveAssemblyReference.cache
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Exempel5-1\obj\Debug\Exempel5_1.Form1.resources
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Exempel5-1\obj\Debug\Exempel5_1.Properties.Resources.resources
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Exempel5-1\obj\Debug\Exempel5-1.csproj.GenerateResource.Cache
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Exempel5-1\obj\Debug\Exempel5-1.exe
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Exempel5-1\obj\Debug\Exempel5-1.pdb

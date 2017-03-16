@@ -1,0 +1,9 @@
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Övning02-02\bin\Debug\Övning02-02.exe.config
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Övning02-02\bin\Debug\Övning02-02.exe
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Övning02-02\bin\Debug\Övning02-02.pdb
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Övning02-02\obj\Debug\Övning02-02.csprojResolveAssemblyReference.cache
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Övning02-02\obj\Debug\Övning02_02.Form1.resources
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Övning02-02\obj\Debug\Övning02_02.Properties.Resources.resources
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Övning02-02\obj\Debug\Övning02-02.csproj.GenerateResource.Cache
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Övning02-02\obj\Debug\Övning02-02.exe
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Övning02-02\obj\Debug\Övning02-02.pdb

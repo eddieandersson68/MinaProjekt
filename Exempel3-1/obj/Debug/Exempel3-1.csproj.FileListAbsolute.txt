@@ -1,0 +1,8 @@
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Exempel3-1\bin\Debug\Exempel3-1.exe.config
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Exempel3-1\bin\Debug\Exempel3-1.exe
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Exempel3-1\bin\Debug\Exempel3-1.pdb
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Exempel3-1\obj\Debug\Exempel3_1.Form1.resources
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Exempel3-1\obj\Debug\Exempel3_1.Properties.Resources.resources
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Exempel3-1\obj\Debug\Exempel3-1.csproj.GenerateResource.Cache
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Exempel3-1\obj\Debug\Exempel3-1.exe
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\Exempel3-1\obj\Debug\Exempel3-1.pdb

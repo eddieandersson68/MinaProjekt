@@ -1,0 +1,9 @@
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\RF 3-2\bin\Debug\RF 3-2.exe.config
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\RF 3-2\bin\Debug\RF 3-2.exe
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\RF 3-2\bin\Debug\RF 3-2.pdb
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\RF 3-2\obj\Debug\RF 3-2.csprojResolveAssemblyReference.cache
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\RF 3-2\obj\Debug\RF_3_2.Form1.resources
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\RF 3-2\obj\Debug\RF_3_2.Properties.Resources.resources
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\RF 3-2\obj\Debug\RF 3-2.csproj.GenerateResource.Cache
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\RF 3-2\obj\Debug\RF 3-2.exe
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\RF 3-2\obj\Debug\RF 3-2.pdb

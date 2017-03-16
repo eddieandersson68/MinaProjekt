@@ -1,0 +1,9 @@
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Övnig 5-2\bin\Debug\Övnig 5-2.exe.config
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Övnig 5-2\bin\Debug\Övnig 5-2.exe
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Övnig 5-2\bin\Debug\Övnig 5-2.pdb
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Övnig 5-2\obj\Debug\Övnig_5_2.Form1.resources
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Övnig 5-2\obj\Debug\Övnig_5_2.Properties.Resources.resources
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Övnig 5-2\obj\Debug\Övnig 5-2.csproj.GenerateResource.Cache
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Övnig 5-2\obj\Debug\Övnig 5-2.exe
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Övnig 5-2\obj\Debug\Övnig 5-2.pdb
+C:\Users\ssund\OneDrive\Dokument\Visual Studio 2015\Projects\MinaProjekt\Övnig 5-2\obj\Debug\Övnig 5-2.csprojResolveAssemblyReference.cache

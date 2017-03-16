@@ -1,0 +1,8 @@
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\RödBlå\bin\Debug\RödBlå.exe.config
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\RödBlå\bin\Debug\RödBlå.exe
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\RödBlå\bin\Debug\RödBlå.pdb
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\RödBlå\obj\Debug\RödBlå.Form1.resources
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\RödBlå\obj\Debug\RödBlå.Properties.Resources.resources
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\RödBlå\obj\Debug\RödBlå.csproj.GenerateResource.Cache
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\RödBlå\obj\Debug\RödBlå.exe
+c:\users\ssund\onedrive\dokument\visual studio 2015\Projects\MinaProjekt\RödBlå\obj\Debug\RödBlå.pdb
